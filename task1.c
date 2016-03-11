@@ -6,8 +6,8 @@ int main()
     while(True)
     {
         printf("Enter your age: ");				//printf instruction
-        scanf("%d", &age);					//user enter age
-        if(age > 0)
+        scanf("%d", &age);					//user enters age
+        if(age > 0)						//checks age
         {
             break;
         }
