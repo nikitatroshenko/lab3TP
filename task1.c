@@ -3,7 +3,7 @@
 int main()
 {
     int age;							//integer field age
-    while(True)
+    while(True)							//while loop
     {
         printf("Enter your age: ");				//printf instruction
         scanf("%d", &age);					//user enters age
